@@ -2,7 +2,7 @@ package pkg
 
 import (
 	"fmt"
-	"github.com/martinsson/go-arch-example/a_service/pkg"
+	"github.com/martinsson/go-arch-example/a-service/pkg"
 )
 
 func SomeFunc() {
