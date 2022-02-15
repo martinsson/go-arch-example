@@ -1,7 +1,10 @@
 package pkg
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/martinsson/go-arch-example/a_service/pkg"
+)
 
 func SomeFunc() {
-	fmt.Println(A)
+	fmt.Println(pkg.A{})
 }

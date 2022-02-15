@@ -1,4 +1,4 @@
-module b_service
+module github.com/martinsson/go-arch-example/b_service
 
 go 1.17
 
